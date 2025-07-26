@@ -3,8 +3,6 @@
 **Full Stack AI SaaS App**  
 Live Demo: [quick-ai-ivory.vercel.app](https://quick-ai-ivory.vercel.app)
 
-<img width="1899" height="909" alt="image" src="https://github.com/user-attachments/assets/e1225c90-05a6-4b83-9dd4-bdbcec930ca0" />
-
 
 QuickAI is a robust full-stack SaaS platform integrating cutting-edge AI tools and sleek UI components to deliver an all-in-one productivity suite. Designed to assist content creators, job seekers, and developers, it combines real-time AI generation with modern media processing and document parsing.
 
@@ -53,7 +51,8 @@ QuickAI is a robust full-stack SaaS platform integrating cutting-edge AI tools a
 
 ## Preview
 
-![QuickAI Screenshot](https://quick-ai-ivory.vercel.app/og.png)
+
+<img width="1899" height="909" alt="image" src="https://github.com/user-attachments/assets/e1225c90-05a6-4b83-9dd4-bdbcec930ca0" />
 
 ---
 
