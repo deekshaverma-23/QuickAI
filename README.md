@@ -68,11 +68,11 @@ QuickAI is a robust full-stack SaaS platform integrating cutting-edge AI tools a
    
 3. Environment Setup-
   Create a .env file and configure:
-  CLERK_SECRET_KEY=your_clerk_secret
-  CLIPDROP_API_KEY=your_clipdrop_key
-  GEMINI_API_KEY=your_gemini_key
-  CLOUDINARY_URL=your_cloudinary_url
-  DATABASE_URL=your_postgres_url
+  1. CLERK_SECRET_KEY=your_clerk_secret
+  2. CLIPDROP_API_KEY=your_clipdrop_key
+  3. GEMINI_API_KEY=your_gemini_key
+  4. CLOUDINARY_URL=your_cloudinary_url
+  5. DATABASE_URL=your_postgres_url
 
 4. Run the App
    npm run dev
